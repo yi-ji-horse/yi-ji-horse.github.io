@@ -1,23 +1,22 @@
----
-layout: homepage
----
+# 随机矩阵光学课题组
+## 课题组简介
+随机矩阵光学起源于。。 由。。。创建。课题组致力于。。。
 
-## About Me
+## 最新成果
+### A论文（及链接）
+A论文简介
 
-I am a Ph.D. student at ...
+### B代码（及链接）
+B代码简介
 
-## Research Interests
+## 团队成员介绍
+### 指导教师
+苗鹏（链接）
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+简介
+### 学生
+李成栋（链接）
 
-## News
+简介
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+………………
